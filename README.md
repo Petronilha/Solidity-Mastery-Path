@@ -33,7 +33,7 @@ O progresso é atualizado conforme avanço nos estudos.
 ### 🟢 Módulo 01: Fundamentos (The Basics)
 Conceitos essenciais da sintaxe e funcionamento da EVM.
 
-- [ ] **01. Hello Web3** (Estrutura básica, Pragma, SPDX)
+- [x] **01. Hello Web3** (Estrutura básica, Pragma, SPDX)
 - [ ] **02. Value Types** (uint, int, bool, address)
 - [ ] **03. Funções** (View, Pure, Payable, Visibilidade)
 - [ ] **04. Storage, Memory & Calldata** (Gerenciamento de Gas e Dados)
