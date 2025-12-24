@@ -97,7 +97,7 @@ Este projeto utiliza **Foundry**. Certifique-se de tê-lo instalado.
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/Petronilha/solidity-mastery-path.git](https://github.com/Petronilha/solidity-mastery-path.git)
+git clone https://github.com/Petronilha/solidity-mastery-path.git
 cd solidity-mastery-path
 
 # 2. Instale as dependências
@@ -110,7 +110,7 @@ forge build
 forge test
 
 # 5. Rode um teste específico com logs detalhados
-forge test --match-path test/01_HelloWeb3.t.sol -vvvv
+forge test --match-path test/Fundamentos/HelloWeb3.t.sol -vvvv
 
 ```
 
