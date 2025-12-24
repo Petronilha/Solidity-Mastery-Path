@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.30;
 
+// A contract demonstrating various value types in Solidity
 contract ValueTypes {
   // Boolean
   bool public myBool = true;

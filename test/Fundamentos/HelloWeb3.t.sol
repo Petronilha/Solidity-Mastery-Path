@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.30;
 
-import "../../src/Fundamentos/HelloWeb3.sol";
+import {HelloWeb3} from "../../src/Fundamentos/HelloWeb3.sol";
 
 contract TestHelloWeb3 {
   function testHello() public {

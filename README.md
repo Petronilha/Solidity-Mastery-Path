@@ -35,7 +35,7 @@ Conceitos essenciais da sintaxe e funcionamento da EVM.
 
 - [x] **01. Hello Web3** (Estrutura básica, Pragma, SPDX)
 - [x] **02. Value Types** (uint, int, bool, address)
-- [ ] **03. Funções** (View, Pure, Payable, Visibilidade)
+- [x] **03. Funções** (View, Pure, Payable, internal, external)
 - [ ] **04. Storage, Memory & Calldata** (Gerenciamento de Gas e Dados)
 - [ ] **05. Controle de Fluxo** (If/Else, Loops, Unchecked blocks)
 

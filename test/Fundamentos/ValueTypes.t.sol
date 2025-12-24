@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.30;
 
-import "../../src/Fundamentos/ValueTypes.sol";
+import {ValueTypes} from "../../src/Fundamentos/ValueTypes.sol";
 
 contract ValueTypesTest is ValueTypes {
   function testValueTypes() public view {
